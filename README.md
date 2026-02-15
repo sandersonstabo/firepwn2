@@ -31,7 +31,7 @@ Simply visit [firepwn2.vercel.app](https://firepwn2.vercel.app) to start using t
 
 ```bash
 # Clone the repository
-git clone https://github.com/treesandflowers/firepwn2.git
+git clone https://github.com/sandersonstabo/firepwn2.git
 
 # Navigate into the project directory
 cd firepwn2
